@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomButtom.qml</file>
+        <file>images/Map-icon.svg.png</file>
+        <file>images/shipLateralView.png</file>
+        <file>images/brujula.png</file>
+    </qresource>
+</RCC>
